@@ -1,0 +1,27 @@
+==========================================
+       NETWORK SECURITY REPORT
+==========================================
+Date: Thu Nov 19 07:45:15 AM EST 2026
+
+
+========== NETWORK INFORMATION ==========
+Network Interface : eth0
+Private IP        : 10.0.2.16
+Subnet            : 10.0.2.16/24
+Default Gateway   : 10.0.2.2
+Wi-Fi SSID        : Unavailable
+==========================================
+
+========== PUBLIC IP GEOLOCATION ==========
+Public IP : 157.51.226.206
+Country   : India
+Region    : Kerala
+City      : Malappuram
+ISP       : Reliance Jio Infocomm Limited
+Organization: Reliance Jio infocomm ltd
+Timezone  : Asia/Kolkata
+============================================
+
+==========================================
+       REPORT GENERATION COMPLETED
+==========================================
